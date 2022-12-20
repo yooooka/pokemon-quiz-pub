@@ -1,6 +1,6 @@
 # Pokémon quiz
 
-A quiz app to refresh my Javascript/Typescript knowledge
+A quiz app to refresh my Javascript/Typescript expertise
 
 ## Design highlights
 
