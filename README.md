@@ -2,7 +2,7 @@
 
 A Javascript/Typescript code exercise.
 
-## Constraining
+## Constraints
 
 - Five questions minimum
   - At least one question should have only a single answer
