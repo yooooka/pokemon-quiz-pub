@@ -1,6 +1,6 @@
 # Pokémon quiz
 
-A Javascript/Typescript code exercise.
+Typescript and UX exercise.
 
 ## Constraints
 
