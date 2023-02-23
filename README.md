@@ -1,6 +1,6 @@
 # Pokémon quiz
 
-Typescript and UX exercise.
+Typescript, UX and accessibility exercise.
 
 ## Constraints
 
@@ -18,3 +18,4 @@ Typescript and UX exercise.
 
 - Light/Dark mode
 - Pikachu animation when the answer is correct
+- Compliant to WCAG 2.1 Level AA
