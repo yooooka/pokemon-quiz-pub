@@ -3,7 +3,7 @@ Typescript, UX and accessibility exercise.<br />
 https://pokemon-quiz-pub.vercel.app/
 
 See this in Stackblitz<br />
-https://stackblitz.com/edit/pokemon-quiz-pub?file=README.md,package.json
+https://stackblitz.com/edit/pokemon-quiz-pub?file=README.md
 
 
 ## Constraints
