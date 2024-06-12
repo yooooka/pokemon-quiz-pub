@@ -1,7 +1,10 @@
 # Pokémon quiz
+Typescript, UX and accessibility exercise.<br />
 https://pokemon-quiz-pub.vercel.app/
 
-Typescript, UX and accessibility exercise.
+See this in Stackblitz<br />
+https://stackblitz.com/edit/pokemon-quiz-pub?file=README.md,package.json
+
 
 ## Constraints
 
